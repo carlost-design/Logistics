@@ -1,0 +1,17 @@
+Vendor,SKU,Item,CasePack,UOM,UnitPrice,Currency,Comments
+BetaSupply,GIL5000BLK-M,"Gildan heavy tee, black m",,EA,3,USD,"Rounded price"
+BetaSupply,, "Coca Cola 24x330ML CAN",24,CASE,12.15,USD,"Extra space, uppercase ML"
+BetaSupply,SDCZ50-064G,"USB flashdrive SanDisk 64 GB 3.0",,EA,6.2,USD,"Word order swapped"
+BetaSupply,Q2612A,"HP 12A toner cartridge",,EA,22.30,USD,"Plain model"
+BetaSupply,A4COPY80,"A4 copy paper 80g ream (500 sheets)",1,REAM,2.25,USD,"Alt SKU"
+BetaSupply,TRSH-13G-90,"13 gallon trash bags 90 ct",90,BOX,8.49,USD,"ct vs count"
+BetaSupply,DETER-2L,"Laundry detergent 2 litre",1,EA,4.55,USD,"British spelling litre"
+BetaSupply,MB-MP128HA,"Samsung EVO microSD 128G U1",,EA,8.50,USD,"G instead of GB"
+BetaSupply,SA400S37/960G,"A400 960GB 2.5in SSD (Kingston)",,EA,33.90,USD,"Alt SKU exact"
+BetaSupply,,"Duracell AAA LR03 alkaline 24pk",24,PACK,9.80,USD,"Missing SKU"
+BetaSupply,HS-500ML,"H & S anti dandruff shampoo 500ml",1,EA,3.70,USD,"Ampersand & spacing"
+BetaSupply,WD10EZEX,"WD 1TB BLUE HDD 3.5\"",,EA,37.25,USD,"Uppercase"
+BetaSupply,GIL-G500-WHT-M,"Gildan 5000 White M T-shirt",,EA,3.05,USD,"Different color variant"
+BetaSupply,COFFEE-1KG-ARABICA,"Arabica coffee beans 1000 g",1,EA,11.20,EUR,"Different currency"
+BetaSupply,, "BOSCH 18V drill - GSR-18V50",,EA,89,USD,"Hyphen in model"
+
